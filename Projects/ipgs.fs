@@ -1,3 +1,5 @@
+(* this is the business logic for https://ipgs.okstate.edu/3A73CBA6-BC09-4A9E-AF59-FF1467EEFDDE/ and https://ipgs.okstate.edu/  *)
+
 module ipgs
     
     open Prelude
